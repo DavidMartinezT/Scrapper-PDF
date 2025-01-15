@@ -1,0 +1,19 @@
+Video: https://drive.google.com/file/d/1M4_rOjzTI0hZz1FeO1vMEIxoBiVUoyxP/view
+
+Files:
+
+Tablas
+
+Columnas(todas las columnas deben estar traducidas al español)
+1. IDCIS (Numera del control)
+    - Clasificar entre nivel L1 y L2a
+2. Parametro (Titulo)
+    - Quitar lo que esta entre parentesis al final
+3. Descripcion (Tomar la descripcion hasta el primer punto)
+    - Revisar los casos que tengan informacion importante
+4. Procedimiento de implementacion: Remediation
+    - The recommended state for this setting is: ... from  Description
+    - revisar que no se traduzca el link
+    - recuadro amarillo
+5. Procedimiento de verificacion: Audit
+    - Cuando audit no tenga recuadro amarillo colocar el de Remediation
