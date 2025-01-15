@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Scrapper PDF to excel
 ## Description
 Este programa convierte un archivo PDF a un archivo excel extrayendo de cada PDF los datos que son necesarios.
@@ -38,3 +39,7 @@ Los resultados se encuentran en la carpeta **output** con el nombre del archivo 
 
 ## Importante
 Recuerde estar siempre en la carpeta raiz del proyecto para ejecutar los comandos.
+=======
+# Scrapper-PDF
+Scrapper para documentos PDF de líneas base de aseguramiento CIS en cualquier SO.
+>>>>>>> 15853f7741b4b0af1a71fd6c099032aac11ba774
